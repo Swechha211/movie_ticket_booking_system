@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin : 0;
+    
+    font-family: poppins;
+
+}
+body{
+    background-image: url("ad3.jpg");  
+    
+    align-content: center;
+}
+
+div.header h1{
+    font-family: poppins;
+    font-style: oblique;
+    align-self: center;
+   
+   color: rgb(234, 230, 235);
+   
+ }
+
+ div.container{
+    position: relative;
+    margin-top: 5%;
+    left: 50%;
+     transform: translate(-50%,-10%); 
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     margin-bottom: 10%;
+ 
+     padding: 30px;
+     width: 550px;
+     
+ }
+
+ div.container div.btn1{
+    border: none;
+    outline:none;
+     background-color:#a1fce1; 
+  color: white;
+  padding: 15px 32px;
+  border-radius: 12px;
+  border: none;
+  outline:none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  width: 50%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 5%;
+   
+ }
+ div.container div.btn2{
+    background-color:#a1fce1; 
+    color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    width: 50%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 5%;
+ }
+ div.container div.btn3{
+    background-color: #a1fce1; 
+    color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    width: 50%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 5%;
+ }
+ div.container div.btn4{
+    background-color: #a1fce1; 
+    color: white;
+    padding: 15px 32px;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    width: 50%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    margin-bottom: 5%;
+ }
+ div.container div.btn5{
+   background-color: #a1fce1; 
+   color: white;
+   padding: 15px 32px;
+   border-radius: 12px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 30px;
+   width: 50%;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   margin-bottom: 5%;
+}
+div.container div.btn6{
+   background-color: #a1fce1; 
+   color: white;
+   padding: 15px 32px;
+   border-radius: 12px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 30px;
+   width: 50%;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   margin-bottom: 5%;
+}
+div.container div.btn7{
+   background-color: #a1fce1; 
+   color: white;
+   padding: 15px 32px;
+   border-radius: 12px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 30px;
+   width: 50%;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   margin-bottom: 5%;
+}
